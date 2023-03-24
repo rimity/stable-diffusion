@@ -40,4 +40,8 @@ https://www.bbsmax.com/A/KE5QDLwqJL/
 
 最后！ 什么都不用改，就等等等！！！ 重试重试重试！！ 实在不行手动安装！！ 读launch.py文件！！！
 
+
+ldm问题：
+launc.py中几个clone的仓库都需要进入仓库根目录pip install -e .
+
 参考文档：参考：https://www.bilibili.com/read/cv21908940?from=articleDetail
